@@ -20,6 +20,7 @@ Object Points ↔ Image Points
 cv2.calibrateCamera()
 ↓
 K + Distortion
+```
 
 ### 2. ArUco Pose Estimation
 
